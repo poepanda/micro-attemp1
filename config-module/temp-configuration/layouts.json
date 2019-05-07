@@ -1,0 +1,8 @@
+{
+  "version": "0.0.1",
+  "layouts": {
+    "common": {
+      "contentHtmlTemplate": "<div class='container-a'></div><div class='container-b'></div>" 
+    }
+  }
+}

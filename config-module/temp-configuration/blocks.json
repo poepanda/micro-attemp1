@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1",
+  "blocks": {
+    "block-pentos": {
+      "project": "pentos",
+      "placeholder": "common-loading",
+      "render": {
+        "serverRenderBundle": "http://localhost:3002/pentos/build/static/js/main.482996a4.js",
+        "clientHydrateBundle": "http://localhost:3002/pentos/build/static/js/main.482996a4.js",
+        "clientRenderBundle": "http://localhost:3002/pentos/build/static/js/main.482996a4.js",
+        "css": "http://localhost:3002/pentos/build/static/css/main.f655d1f6.css"
+      }
+    },
+    "block-orca": {
+      "project": "orca",
+      "placeholder": "common-loading",
+      "render": {
+        "serverRenderBundle": "http://localhost:3002/orca/build/static/js/main.3557d185.js",
+        "clientHydrateBundle": "http://localhost:3002/orca/build/static/js/main.3557d185.js",
+        "clientRenderBundle": "http://localhost:3002/orca/build/static/js/main.3557d185.js",
+        "css": "http://localhost:3002/orca/build/static/css/main.95a87898.css"
+      }
+    }
+  }
+}
